@@ -8,6 +8,6 @@ Unfortunately, it is not always able to reach it because it can only change its 
 
 I made it while I was a student for homework.
 
-![alt tag](https://raw.githubusercontent.com/gajduk/Fish-searching-food/master/fish_finding_food_1.PNG)
+![alt tag](https://raw.githubusercontent.com/gajduk/Fish-searching-food/master/fish_searching_food_1.PNG)
 
-![alt tag](https://raw.githubusercontent.com/gajduk/Fish-searching-food/master/fish_finding_food_2.PNG)
+![alt tag](https://raw.githubusercontent.com/gajduk/Fish-searching-food/master/fish_searching_food_2.PNG)
